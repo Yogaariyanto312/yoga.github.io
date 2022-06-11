@@ -79,7 +79,7 @@ startButton.addEventListener('click', function () {
     //Display an alert if the user has not entered a name
     alert('masukin nama dulu anjim!');
   }
-}
+});
 
 //Create the buttons that will hold answers to the question.
 function createAnswerButton(index) {
