@@ -16,7 +16,18 @@
 section {
   padding-top: 6rem;
 }
+.tty {
+  padding-top: 28px;
+  text-align: center;
+}
 
+.trakteer {
+  float: right;
+  text-align: center;
+}
+
+@media screen {
+}
 /* sosial */
 
 @import '//codepen.io/chrisdothtml/pen/ojLzJK.css';
@@ -77,7 +88,7 @@ section {
 .social-btns {
   height: 100px;
   margin: 2rem;
-
+  align-items: center;
   text-align: center;
 }
 .social-btns .btn {
