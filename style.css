@@ -15,7 +15,9 @@
 #contact {
   background-color: #fff;
 }
-
+#about {
+  background-color: aliceblue;
+}
 section {
   padding-top: 6rem;
 }
@@ -88,7 +90,7 @@ section {
   font-style: italic;
 }
 
-#Materi {
+#download {
   background-color: aliceblue;
 }
 /* code css highlight.js nya */
